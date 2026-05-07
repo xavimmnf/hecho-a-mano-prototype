@@ -53,3 +53,7 @@ npm run preview
 
 - Este proyecto utiliza dependencias de terceros bajo sus licencias respectivas (consultar sus repositorios en `node_modules/`).
 - El código fuente de la aplicación (HTML/CSS/JS/React) está bajo la licencia que se defina en el repositorio (si existe un archivo `LICENSE`).
+
+## Creditos
+
+- Proyecto desarrollado por Xavier Narvaez y Ermis Maldonado  
