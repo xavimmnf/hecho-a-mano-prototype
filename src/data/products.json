@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Nombre del producto",
+    "artisan": "Nombre del artesano",
+    "price": "$0000,00"
+  },
+  {
+    "id": 2,
+    "name": "Nombre del producto",
+    "artisan": "Nombre del artesano",
+    "price": "$0000,00"
+  },
+  {
+    "id": 3,
+    "name": "Nombre del producto",
+    "artisan": "Nombre del artesano",
+    "price": "$0000,00"
+  },
+  {
+    "id": 4,
+    "name": "Nombre del producto",
+    "artisan": "Nombre del artesano",
+    "price": "$0000,00"
+  }
+]

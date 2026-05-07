@@ -1,0 +1,54 @@
+.navbar {
+  width: 100%;
+}
+
+.navbar-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .navbar-content {
+    padding: 1rem 3rem;
+  }
+}
+
+.navbar-content-centered {
+  justify-content: center;
+}
+
+.navbar-logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+.navbar-login-btn {
+  border-radius: 0.375rem;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  background-color: rebeccapurple;
+}
+
+.navbar-icons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.navbar-icon-link {
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+.navbar-icon-link:hover {
+  opacity: 1;
+}
+
+.navbar-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+}

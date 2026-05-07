@@ -1,0 +1,13 @@
+export { HomePage } from '../pages/HomePage';
+export { LoginPage } from '../pages/LoginPage';
+export { RegistroPage } from '../pages/RegistroPage';
+export { CatalogoPage } from '../pages/CatalogoPage';
+export { ArtesanosPage } from '../pages/ArtesanosPage';
+export { ArtesanoDetailPage } from '../pages/ArtesanoDetailPage';
+export { ProductoDetailPage } from '../pages/ProductoDetailPage';
+export { DashboardPage } from '../pages/DashboardPage';
+export { PerfilPage } from '../pages/PerfilPage';
+export { CarritoPage } from '../pages/CarritoPage';
+export { CheckoutPage } from '../pages/CheckoutPage';
+export { HistoriaPage } from '../pages/HistoriaPage';
+export { SoportePage } from '../pages/SoportePage';
